@@ -1,4 +1,4 @@
-# Hemanth Kumar — Personal Portfolio
+#  Purnavijaya— Personal Portfolio
 
 Full-stack portfolio website built with **Node.js + Express + MongoDB**, deployed on **Vercel**.
 
@@ -65,7 +65,7 @@ vercel --prod
 
 ## Deploy to Heroku
 ```bash
-heroku create hemanth-portfolio
+heroku create purnavijaya-portfolio
 heroku config:set MONGO_URI=mongodb+srv://...
 git push heroku main
 ```
